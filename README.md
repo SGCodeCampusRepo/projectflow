@@ -1,4 +1,4 @@
-# How to Manage a Development Project using Agile and Kanban
+# How to Manage a Development Project using [Agile](https://www.atlassian.com/agile) and [Kanban](https://www.atlassian.com/agile/kanban)
 
 ## Initializing the project
 * The project leader creates a repo on Github to hold the application code
